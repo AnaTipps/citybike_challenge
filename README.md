@@ -68,7 +68,7 @@ Your task in this assignment is to aggregate the data found in the Citi Bike Tri
 
 The first stage of the project required gathering monthly CSV files spanning from January 2018 to December 2020, sourced from the [Citi Bike Data](https://citibikenyc.com/system-data) webpage. These files were then organized within a dedicated folder named "data." It's important to note that the data utilized in this analysis exclusively pertains to the Jersey City region.
 
-Following this, I created a Jupyter Notebook file named [citibike.ipynb] (https://github.com/AnaTipps/citybike_challenge/citibike.ipynb). In this file, I systematically cleaned and merged all the monthly CSV files into a single CSV file, preparing the data for subsequent importation into Tableau.
+Following this, I created a Jupyter Notebook file named [citibike.ipynb]([https://github.com/AnaTipps/citybike_challenge/citibike.ipynb](https://github.com/AnaTipps/citybike_challenge/blob/main/citibike.ipynb)). In this file, I systematically cleaned and merged all the monthly CSV files into a single CSV file, preparing the data for subsequent importation into Tableau.
 
    
-   **Please note that the large size of the CSV files precludes their storage in this repository and in GitHub's Large File Storage. Please folow the instructions in the [citibike.ipynb] (https://github.com/AnaTipps/citybike_challenge/citibike.ipynb) to create your own master CSV file for the use of Tableau.**
+   ** Please be aware that due to the substantial size of the CSV files, they cannot be stored within this repository or in GitHub's Large File Storage. To generate your own master CSV file for Tableau utilization, kindly refer to the instructions outlined in [citibike.ipynb]([https://github.com/AnaTipps/citybike_challenge/citibike.ipynb](https://github.com/AnaTipps/citybike_challenge/blob/main/citibike.ipynb)).**
