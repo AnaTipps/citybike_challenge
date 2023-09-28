@@ -1,6 +1,6 @@
-# citybike_challenge TABLEAU
-
 # Citi Bike Analysis with Tableau
+![image](https://github.com/AnaTipps/citybike_challenge/assets/131827518/c2b68d65-9fc7-456c-a8f5-13e78749ac3b)
+
 
 ## Background 
 
@@ -10,7 +10,9 @@ Since 2013, the Citi Bike program has established a robust data collection syste
 
 
 ## Deployment
-Below is the link to the Tableau dashboard displaying the analysis results: https://public.tableau.com/app/profile/ana.luisa.tipple/viz/citibike_challenge_16958390807360/citibike 
+Below is the link to the Tableau dashboard displaying the analysis results: 
+https://public.tableau.com/app/profile/ana.luisa.tipple/viz/citibike_challenge_16958390807360/citibike 
+![image](https://github.com/AnaTipps/citybike_challenge/assets/131827518/3b4e53ea-e445-4ae5-b97b-fd70b4dc3472)
 
 
 ## Instructions
